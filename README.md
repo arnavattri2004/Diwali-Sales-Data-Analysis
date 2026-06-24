@@ -89,7 +89,7 @@ Jupyter Notebook |             Interactive analysis environment
 
 1. Clone the repository
 
-bashgit clone https://github.com/your-username/diwali-sales-analysis.git
+bashgit clone https://github.com/arnaavattri2004/diwali-sales-analysis.git
 cd diwali-sales-analysis
 
 2. Install dependencies
